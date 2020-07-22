@@ -16,6 +16,10 @@ Unity (C#), Procreate, Adobe Photoshop, Adobe Illustrator, Bfxr, GarageBand, and
 
 ## About
 
-Made with love for Ludum Dare #46, “Keep it Alive.” All code, art, and audio were originally made by yours truly, [Ruthie Edwards](ruthieswebsite.com/), between April 17-19, 2020.
+Made with love for Ludum Dare #46, “Keep it Alive.” All code, art, and audio were originally made by yours truly, [Ruthie Edwards](https://ruthieswebsite.com/), between April 17-19, 2020.
+
+## License
+[Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+(TLDR: You may use, remix, or build upon this game as you wish, so long as you are not using it for commercial purposes, and you are also sharing it under the same license.)
 
 
